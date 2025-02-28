@@ -1,4 +1,4 @@
-# Anlise de Vendas de uma Loja de Roupas
+# Análise de Vendas de uma Loja de Roupas
 
 
 Este projeto realiza uma análise de vendas de uma loja de roupas, fornecendo estatísticas e visualizações gráficas para auxiliar na tomada de decisão. Os dados incluem produtos, categorias, preços e quantidades vendidas.
